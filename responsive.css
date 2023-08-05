@@ -1,0 +1,58 @@
+@media (max-width: 1000px) {
+  .project-item {
+    width: 50%;
+    margin-bottom: 30px;
+  }
+}
+
+@media (max-width: 670px) {
+  .project-item {
+    width: 100%;
+  }
+
+  .top-wrapper {
+    padding-top: 120px;
+    padding-bottom: 60px;
+  }
+
+  .header-right {
+    display: none;
+  }
+
+  .menu-icon {
+    display: block;
+  }
+
+  .top-wrapper h1 {
+    font-size: 50px;
+    line-height: 36px;
+    padding-bottom: 0;
+  }
+
+  .top-wrapper p {
+    font-size: 20px;
+    line-height: 20px;
+  }
+
+  .about-wrapper p {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .footer-left {
+    font-size: 24px;
+    letter-spacing: 6px;
+  }
+
+  .column-email input {
+    width: 280px;
+  }
+
+  .column-message input {
+    width: 280px;
+  }
+
+  .btnWrapper a {
+    padding: 8px 100px;
+  }
+}
